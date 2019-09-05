@@ -1,1 +1,1 @@
-# algorithms-design
+# algorithms design
